@@ -10,8 +10,8 @@ Download with
 
 Install Libs:
 
-`Npm Install`
+`npm Install`
 
 Run With:
 
-`Expo Start`
+`expo Start`
