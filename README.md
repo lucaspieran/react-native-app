@@ -1,5 +1,5 @@
 # React-Ntive-App
-Application made with Expo
+Application made with Expo to manage shifts
  [ Link](https://docs.expo.io/ "Heading link")
 
 
